@@ -1,23 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'O que são células procariontes?',
+    'São células que não possuem núcleo organizado nem organelas membranosas.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'Qual a principal função da mitocôndria?',
+    'A produção de energia por meio da respiração celular.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'O que é fotossíntese?',
+    'Processo em que as plantas convertem luz solar em energia química.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Qual é a molécula responsável por carregar informações genéticas?',
+    'O DNA.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que são os ribossomos?',
+    'Organelas responsáveis pela síntese de proteínas.'
 )
